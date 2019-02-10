@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: white;
+    text-align: center;
+
+}
+.friend{
+    text-align: center;
+    color: black;
+    background-color:grey;
+    font-style: bold;
+
+}
+h3{
+    color: white;
+    text-decoration-style: double;
+    text-transform: uppercase;
+    background-color: darkturquoise;
+}
